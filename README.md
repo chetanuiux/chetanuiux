@@ -104,3 +104,18 @@
   </tr>
 </table>
 
+## 🚀 Expertise
+
+- ✅ Proven experience in front-end development with responsive design.
+- 🎨 PSD/Figma to HTML/React conversion and interactive web animation.
+- 🧠 Deep understanding of web architecture & modern technologies.
+- 🌐 Track record of improving cross-browser performance and security.
+- 🔌 Integration of third-party libraries and APIs.
+- 🔐 Familiarity with authentication and authorization methods.
+- 🌀 Agile workflow experience in fast-paced environments.
+- 🎯 Skilled in creating high-quality button transitions and animations.
+- ⚡ Ability to work quickly without compromising quality.
+- ⏱️ Committed to delivering projects promptly and efficiently.
+
+---
+
