@@ -8,7 +8,6 @@
 - 🔍 Accessibility & Usability Best Practices
 - 🚀 I enjoy working on challenging projects and collaborating with others to solve problems
 - 📈 I’m passionate about staying updated with industry trends and continuously improving my skills
-- 📫 Reach out to me via Email or check out my Portfolio
 
 
 ## 👨‍💻 Languages and Tools I Use
