@@ -123,12 +123,7 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=chetanuiux&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanuiux&theme=dark" alt="Streak Stats" />
-      </td>
-      <td width="50%" align="center">
+      <td width="100%" align="center">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chetanuiux&theme=dark&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
