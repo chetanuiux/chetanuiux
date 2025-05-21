@@ -117,15 +117,6 @@
 - ⚡ Ability to work quickly without compromising quality.
 - ⏱️ Committed to delivering projects promptly and efficiently.
 
-## Profile Trophy
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=chetanuiux&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
-    </a>
-  </div>
-</p>
-
 
 ## My Stats
 <p align="center">
