@@ -123,7 +123,7 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td width="100%" align="center">
+      <td width="100%" align="left">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chetanuiux&theme=dark&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
